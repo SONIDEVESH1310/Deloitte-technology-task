@@ -1,0 +1,18 @@
+# Ignore virtual environments
+VENV/
+.venv/
+venv/
+
+# Ignore Replit & Poetry files
+.replit
+replit.nix
+.config/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.swp
